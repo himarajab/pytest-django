@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/hima/Downloads/Video/vscode/n/pytest django and drf/venv/bin/python" "$0" "$@"
+'''exec' "/home/hima/Downloads/Video/vscode/n/pytest_django_and_drf/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
